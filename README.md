@@ -1,11 +1,11 @@
 # Codewars
-🚀 Welcome to my CodeWars Katas Repository! 🚀
+<div align="center">
+    
+## 🚀 Welcome to my CodeWars Katas Repository! 🚀
+</div>
 
-This repository is for the intent of sharing my solutions for the *katas while tracking my progress in codewars;
-*katas are like mini-puzzles designed to hone problem-solving abilities and improve algorithmic thinking
-
-## Codewars
-[profile](https://www.codewars.com/users/ftomaz-c)
+This repository is for the intent of sharing my solutions for the katas[^*] while tracking my progress in codewars.
+My [profile](https://www.codewars.com/users/ftomaz-c).
 
 <p align="center" >
     <a href="LINK TO: WHEN CLICKED">
@@ -14,5 +14,8 @@ This repository is for the intent of sharing my solutions for the *katas while t
 </p>
 
 
-🌐 About CodeWars:
+## 🌐 About CodeWars:
+
 CodeWars is a community-driven platform that offers coding challenges, known as katas, to help you enhance your coding skills in various programming languages.
+
+[^*]: katas are like mini-puzzles designed to hone problem-solving abilities and improve algorithmic thinking
