@@ -1,7 +1,7 @@
 # Codewars
 <div align="center">
     
-## 🚀 Welcome to my CodeWars Katas Repository! 🚀
+## 🚀 Welcome to my Codewars Katas Repository! 🚀
 </div>
 
 This repository is for the intent of sharing my solutions for the katas[^*] while tracking my progress in codewars.
