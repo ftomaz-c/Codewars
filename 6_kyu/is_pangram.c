@@ -6,11 +6,11 @@
 /*   By: ftomaz-c <ftomaz-c@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/23 11:37:12 by ftomaz-c          #+#    #+#             */
-/*   Updated: 2023/08/23 11:53:10 by ftomaz-c         ###   ########.fr       */
+/*   Updated: 2023/08/24 19:12:20 by ftomaz-c         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-// Detect Pangram
+// Detect Pangramgit pull.
 
 // A pangram is a sentence that contains every single letter of the alphabet at least once.
 // For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because
