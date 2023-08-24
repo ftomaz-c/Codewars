@@ -71,14 +71,19 @@ char *binary_add (unsigned a, unsigned b, char *binary)
 
 // best solution:
 
-// typedef unsigned long long ull;
-
-// ull sum = (ull)a + (ull)b;
-// unsigned length = (sum == 0) ? 1 : bitlen(sum);
 // (...)
-// }
+// typedef unsigned long long ull;
 
 // unsigned bitlen (ull n)
 // {
 // 	return (n == 0) ? 0 : (1 + bitlen(n >> 1));
 // }
+
+// char *binary_add (unsigned a, unsigned b, char *binary)
+// {
+// 	(...)
+// 	ull sum = (ull)a + (ull)b;
+// 	unsigned length = (sum == 0) ? 1 : bitlen(sum);
+// 	(...)
+// }
+
